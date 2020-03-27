@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="PersonForm.aspx.cs" Inherits="WebFormsDemo.PersonForm" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="StudentForm.aspx.cs" Inherits="WebFormsDemo.PersonForm" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="row">
         <h1>Web Forms Demo</h1>
@@ -108,4 +108,5 @@
         </div>
     </div>
     <%--<script src="Scripts/bootwrap-freecode.js"></script>--%>
+    <h1>Hey Man</ h1>
 </asp:Content>
